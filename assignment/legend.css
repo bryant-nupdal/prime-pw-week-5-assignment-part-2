@@ -1,6 +1,6 @@
 header{
   background-color: #1E3F66;
-  color: #BCD2E8;
+
   text-align: center;
 }
 main{
@@ -11,4 +11,7 @@ body{
   background-image: url("record.png");
   background-repeat: repeat;
   margin: 0;
+}
+.lightBlueText{
+  color: #BCD2E8;
 }
